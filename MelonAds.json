@@ -11,7 +11,7 @@
     },
     "adNetworkSelection": {
         "appOpenAdsType": "admob",
-        "interstitialAdsType": "applovin",
+        "interstitialAdsType": "admob",
         "rewardedAdsType": "admob"
     }
 }
