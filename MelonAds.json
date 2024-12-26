@@ -5,9 +5,9 @@
         "rewardedAdUnitID": "200526aeed5323ef"
     },
     "admob": {
-        "appOpenAdUnitID": "ca-app-pub-3940256099942544/9257395921",
-        "interstitialAdUnitID": "ca-app-pub-3940256099942544/1033173712",
-        "rewardedAdUnitID": "ca-app-pub-3940256099942544/5224354917"
+        "appOpenAdUnitID": "ca-app-pub-4428949430819505/1663019774",
+        "interstitialAdUnitID": "ca-app-pub-4428949430819505/9177450231",
+        "rewardedAdUnitID": "ca-app-pub-4428949430819505/6551286896"
     },
     "adNetworkSelection": {
         "appOpenAdsType": "admob",
