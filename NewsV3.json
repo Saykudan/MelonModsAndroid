@@ -1,0 +1,45 @@
+{
+  "selectedIdToShow": 1,
+  "showBanner": false,
+  "showSelectedNews": false,
+  "newsItems": [
+    {
+      "id": 1,
+      "title": "🎄 Christmas Special Giveaway Contest! 🎁",
+      "description": "We're back and better than ever! We sincerely apologize for not being active lately. Melon Mods is now fully operational with exciting new features, and we're celebrating with a special Christmas Giveaway!",
+      "buttonType": 1,
+      "showDetails": false,
+      "date": "2025-12-18",
+      "paragraphs": [
+        {
+          "subTitle": "Our Apologies",
+          "content": "We want to sincerely apologize for our recent inactivity. We've been working hard behind the scenes to improve the app and bring you the best experience possible. Thank you for your patience and continued support!"
+        },
+        {
+          "subTitle": "How to Enter",
+          "content": "For a chance to win a yearly or monthly subscription this Christmas season, follow these simple steps."
+        },
+        {
+          "subTitle": "Step 1",
+          "content": "Make sure you are using the latest version 1.6.1 of the Melon Mods app. You can check your current version in the app settings."
+        },
+        {
+          "subTitle": "Step 2",
+          "content": "Turn on notifications in the app settings so you don't miss any updates."
+        },
+        {
+          "subTitle": "Step 3",
+          "content": "Share your feedback with us! Tell us what features you'd like to see, what mods you enjoy most, or any suggestions for improvement. You can reach us through the app's feedback section or social media. Don't forget to include your nickname so we can identify you!"
+        },
+        {
+          "subTitle": "Contest Period",
+          "content": "The Christmas contest will run from December 18th, 2025 to January 18th, 2026 (one month)."
+        },
+        {
+          "subTitle": "Winner Announcement",
+          "content": "Winners will be announced in the app on January 21st, 2026. Good luck to everyone, and happy holidays!"
+        }
+      ]
+    }
+  ]
+}
