@@ -6,16 +6,16 @@
         "nativeAdUnitID": ""
     },
     "admob": {
-        "appOpenAdUnitID": "ca-app-pub-3940256099942544/9257395921",
-        "interstitialAdUnitID": "ca-app-pub-3940256099942544/1033173712",
-        "rewardedAdUnitID": "ca-app-pub-3940256099942544/5224354917",
-        "nativeAdUnitID": "ca-app-pub-3940256099942544/2247696110"
+        "appOpenAdUnitID": "ca-app-pub-4428949430819505/8401863415",
+        "interstitialAdUnitID": "ca-app-pub-4428949430819505/9714945083",
+        "rewardedAdUnitID": "ca-app-pub-4428949430819505/2874204560",
+        "nativeAdUnitID": "ca-app-pub-4428949430819505/1561122893"
     },
     "yandex": {
-        "appOpenAdUnitID": "demo-appopenad-yandex",
-        "interstitialAdUnitID": "demo-interstitial-yandex",
-        "rewardedAdUnitID": "demo-rewarded-yandex",
-        "nativeAdUnitID": "demo-native-content-yandex"
+        "appOpenAdUnitID": "R-M-18137824-4",
+        "interstitialAdUnitID": "R-M-18137824-2",
+        "rewardedAdUnitID": "R-M-18137824-3",
+        "nativeAdUnitID": "R-M-18137824-1"
     },
     "countryTargeting": {
         "enabled": true,
