@@ -1,15 +1,15 @@
 {
   "selectedIdToShow": 1,
   "showBanner": false,
-  "showSelectedNews": false,
+  "showSelectedNews": true,
   "newsItems": [
     {
       "id": 1,
       "title": "🎄 Christmas Special Giveaway Contest! 🎁",
       "description": "We're back and better than ever! We sincerely apologize for not being active lately. Melon Mods is now fully operational with exciting new features, and we're celebrating with a special Christmas Giveaway!",
       "buttonType": 1,
-      "showDetails": false,
-      "date": "2025-12-18",
+      "showDetails": true,
+      "date": "2025-12-25",
       "paragraphs": [
         {
           "subTitle": "Our Apologies",
@@ -33,11 +33,11 @@
         },
         {
           "subTitle": "Contest Period",
-          "content": "The Christmas contest will run from December 18th, 2025 to January 18th, 2026 (one month)."
+          "content": "The Christmas contest will run from December 25th, 2025 to January 25th, 2026 (one month)."
         },
         {
           "subTitle": "Winner Announcement",
-          "content": "Winners will be announced in the app on January 21st, 2026. Good luck to everyone, and happy holidays!"
+          "content": "Winners will be announced in the app on January 28th, 2026. Good luck to everyone, and happy holidays!"
         }
       ]
     }
