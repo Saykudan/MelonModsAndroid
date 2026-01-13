@@ -6,10 +6,10 @@
         "nativeAdUnitID": ""
     },
     "admob": {
-        "appOpenAdUnitID": "ca-app-pub-4428949430819505/8401863415",
-        "interstitialAdUnitID": "ca-app-pub-4428949430819505/9714945083",
-        "rewardedAdUnitID": "ca-app-pub-4428949430819505/2874204560",
-        "nativeAdUnitID": "ca-app-pub-4428949430819505/1561122893"
+        "appOpenAdUnitID": "ca-app-pub-4428949430819505/3310927069",
+        "interstitialAdUnitID": "ca-app-pub-4428949430819505/1440469862",
+        "rewardedAdUnitID": "ca-app-pub-4428949430819505/5188143183",
+        "nativeAdUnitID": "ca-app-pub-4428949430819505/5937090408"
     },
     "yandex": {
         "appOpenAdUnitID": "R-M-18137824-4",
